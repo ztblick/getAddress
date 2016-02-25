@@ -1,0 +1,11 @@
+Status log for getAddress
+
+Date		Changes, Goals for next time
+-------------------------------------------------------------------------------
+12.20		-Added excel functionality
+			Next time:
+			-remove unnecessary code
+			-get it working for the Glasgow schools
+
+1.25		-Now only adds email addresses to the spreadsheet!
+			-Still a problem with following links?
